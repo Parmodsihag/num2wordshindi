@@ -17,6 +17,6 @@ Eg:
   >>> print(currency)
 	तीन हजार दौ सौ पेनसठ रुपये, इक्कीस पैसे
   
-  
+  make sure you have a hindi font installed in your system
   
   
